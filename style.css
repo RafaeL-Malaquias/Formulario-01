@@ -33,7 +33,6 @@ body::before {
 /*------------------------*/
 /* header e h1, e p*/
 header{
-
     width: 343px;
     margin-top: 74px;
 }
@@ -75,7 +74,6 @@ fieldset legend {
     font-style: normal;
     font-weight: 600;
     line-height: 34px;
-
     width: 100%;
     padding: 16px; /* quanto tem uma borda tem que da o preenchimento, padding para baixo*/
     border-bottom: 1px solid #E6E6F0;
