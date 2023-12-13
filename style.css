@@ -57,6 +57,10 @@ form {
     border-radius: 8px 8px 0px 0px;
     min-height: 300px;
     padding:  64px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
 }
 
 fieldset {
@@ -130,3 +134,13 @@ fieldset legend {
     color: #121214;
 }
 
+/* area da privacidade */
+
+.col-3 {
+    display: flex;
+    gap: 20px;
+}
+.col-3 > div:nth-child(1)
+{
+    width: 100%;
+}
