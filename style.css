@@ -113,7 +113,7 @@ fieldset legend {
     color: #4E4958;
 
     border: 1px solid #E6E6F0;
-    border-radius: 8px 0 0;
+    border-radius: 8px;
 
     padding: 0 24px;
     height: 56px;
@@ -208,6 +208,12 @@ fieldset legend {
   }
 .button:hover {
     background: #0faa55;
+}
+
+/* validação */
+
+input:invalid{
+    border: 1px solid red;
 }
 
 
