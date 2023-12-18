@@ -141,6 +141,7 @@ fieldset legend {
 }
 .col-3 > div:nth-child(1){
     width: 100%;
+
 }
 
 /* checkbox */
@@ -201,7 +202,6 @@ fieldset legend {
     border-radius: 8px;
     height: 56px;
     border: 0;
-    
     font-size: 16px;
     line-height: 26px;
     color: #fff;
