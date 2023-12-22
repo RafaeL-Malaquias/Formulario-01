@@ -1,12 +1,13 @@
-<h1 align="center">Avalie a sua mentoria</h1>
+<h1 align="center">Crie e compartilhe 
+seu evento.</h1>
 <p align="center">
   <a href="https://rafael-malaquias.github.io/Formulario-01/">
-    <img height="600em" src="assest/">
+    <img height="600em" src="assest/Screenshot_1.png">
     </a>
 </p>
 
 <p align="center">
-Criando formulários avançado, curso exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
+Criando formulário, curso exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -34,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Utilize plataformas online para facilitar o processo de inscrição e gerenciar a participação do evento.
 
 
 [Link](https://rafael-malaquias.github.io/Stage-03-form/) - Para visualizar o projeto.
