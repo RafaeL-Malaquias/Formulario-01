@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Avaliação de Mentoria, Este formulário foi criado com HTML e CSS, oferece uma experiência de usuário intuitiva e agradável, garantindo que sua avaliação seja fácil de ser expressa.
+
 
 [Link](https://rafael-malaquias.github.io/Stage-03-form/) - Para visualizar o projeto.
 
