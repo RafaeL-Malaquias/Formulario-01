@@ -40,7 +40,7 @@ Avaliação de Mentoria, Este formulário foi criado com HTML e CSS, oferece uma
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/4lqgH7HrVCtByksPurfDEY/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/uToxI0tY3BVG2drgoBR7Qs/Explorer-Stage-03-Projeto-01-(Copy)?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ##  📝 Licença
 
